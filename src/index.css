@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;1,300&display=swap');
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+   font-family: 'Nunito', sans-serif;
+   font-weight: 400;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    height: 100vh;
+  margin: 0;
+     overflow: hidden;
+  background: linear-gradient(65.5deg, rgb(23, 205, 205) -15.1%, rgb(23, 25, 95) 71.5%);
+}
+
